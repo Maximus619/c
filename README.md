@@ -8,4 +8,7 @@
               2. Ideating and deploying a tested streamlined workflow design for swift production of superior quality cloth-masks and other protective equipment using readily available materials and simple assembly training. Also, providing a very simple sterilization method of used masks at home using simple autoclave construction using pressure cooker. <br />
               
               3. Deployment of advanced strategies in hospital environments and other high-risk enclosures using guided airflow to create stronger containment units. Planned use sanitation gates and of Positive and Negative pressure zones in the hospital for controlling droplet spread and thus greatly reducing the risk of contact of the virus with the hospital staff.
-            
+- WITH 
+  1. SELF ASSESMENT TEST    
+  2. AWARNESS QUIZ
+  
